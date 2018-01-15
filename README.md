@@ -1,4 +1,4 @@
-# vue-test
+# VueJS Sample
 
 
 - [NodeJS](https://nodejs.org/en/) to run the application.
